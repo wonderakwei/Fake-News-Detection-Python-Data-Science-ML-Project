@@ -1,4 +1,3 @@
-# Fake-News-Detection-Python-Data-Science-ML-Project
 # Fake News Detection Project
 
 ![Fake News](https://media.newyorker.com/photos/5f19f57a698a316b79e7c413/16:9/w_2560,h_1440,c_limit/Glasser-TrumpWallaceInterview.jpg)
@@ -33,7 +32,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/fake-news-detection.git
+   git clone https://github.com/wonderakwei/Fake-News-Detection-Python-Data-Science-ML-Project.git
    ```
 
 2. Navigate to the project directory:
